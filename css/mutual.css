@@ -35,3 +35,13 @@ a {
 a:hover {
   color: gold;
 }
+
+h1 {
+  font-family: "Josefin Slab", serif;
+  font-size: 4rem;
+}
+
+h3 {
+  font-family: "Josefin Slab", serif;
+  font-size: 2rem;
+}
