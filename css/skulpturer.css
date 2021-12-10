@@ -7,7 +7,9 @@ main img {
   box-sizing: border-box;
   margin: 0;
 }
-
+main {
+  margin-bottom: 20px;
+}
 .top {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -54,6 +56,52 @@ main img {
   grid-template-columns: 1fr;
   left: 90%;
 }
-.lokation {
+.location {
   color: gold;
+}
+a {
+  font-size: 4vw;
+}
+.logo1 img {
+  width: 60px;
+  height: 60px;
+  margin: 1%;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+}
+form {
+  padding: 2rem;
+  padding-top: 20px;
+}
+label,
+input,
+button {
+  display: block;
+  margin-bottom: 5px;
+}
+input {
+  margin-bottom: 6px;
+}
+footer {
+  border-top: solid 1px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+footer a {
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+}
+footer ol {
+  list-style: none;
+}
+.kontakt {
+  margin-top: 20px;
+  text-align: right;
 }
