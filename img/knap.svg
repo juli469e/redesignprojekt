@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124" height="124" viewBox="0 0 124 124">
+  <defs>
+    <clipPath id="clip-Artboard_1">
+      <rect width="124" height="124"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <g id="Group_1" data-name="Group 1" transform="translate(-1584 -96)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="58.5" cy="58.5" r="58.5" transform="translate(1588 99)" fill="#837f74"/>
+      <line id="Line_1" data-name="Line 1" x2="51" y2="56" transform="translate(1621 130)" fill="none" stroke="#ded0a9" stroke-width="6"/>
+      <line id="Line_2" data-name="Line 2" x1="55" y2="55" transform="translate(1619 130)" fill="none" stroke="#e0d1aa" stroke-width="6"/>
+    </g>
+  </g>
+</svg>
